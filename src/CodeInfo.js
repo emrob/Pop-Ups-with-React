@@ -4,7 +4,7 @@ import Popup from "reactjs-popup";
 const CodeInfo = () => (
 
 <Popup
-  trigger={<button className="button"> Click Me! </button>}
+  trigger={<button className="button"> What is CODE? </button>}
   modal
   // contentStyle={contentStyle}
 >
